@@ -1,6 +1,6 @@
 @GitOutWebApi_HostAddress = http://localhost:5135
 
-GET {{GitOutWebApi_HostAddress}}/weatherforecast/
+GET {{GitOutWebApi_HostAddress}}/api/name
 Accept: application/json
 
 ###
